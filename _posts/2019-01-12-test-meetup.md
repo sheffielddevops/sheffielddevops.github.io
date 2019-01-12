@@ -4,30 +4,30 @@ title: Test Meetup
 
 [Eventbrite Link](https://eventbrite.com)
 
-The next Sheffield Devops event takes place on {{date}} and is generously sponsored and hosted by {{sponsor}}, with food and beers, wines and soft drinks provided on arrival.
+The next Sheffield Devops event takes place on **date** and is generously sponsored and hosted by **sponsor**, with food and beers, wines and soft drinks provided on arrival.
 
-Event opens at 6pm for food and drinks, with the first talk starting at 6:30pm.
+Event opens at 18:00 for food and drinks, with the first talk starting at 18:30.
 
-    6:00 - 6:30: Doors open
-    6:30 - 7:15: {{talk one}}
-    7:15 - 7:30: Break
-    7:30 - 8:15: {{talk two}}
+18:00 - 18:30: Doors open
+18:30 - 18:15: **talk one**
+19:15 - 19:30: Break
+19:30 - 19:15: **talk two**
 
 ## About the Speakers
 
-{{speaker info}}
+**speaker info**
 
 ## Venue
 
-{{venue info}}
+**venue info**
 
-{{map}}
+**map**
 
-{{parking info}}
+**parking info**
 
 ## Sponsors
 
-{{sponsor info}}
+**sponsor info**
 
 ## More Info
 
