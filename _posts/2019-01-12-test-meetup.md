@@ -8,10 +8,10 @@ The next Sheffield Devops event takes place on **date** and is generously sponso
 
 Event opens at 18:00 for food and drinks, with the first talk starting at 18:30.
 
-18:00 - 18:30: Doors open
-18:30 - 18:15: **talk one**
-19:15 - 19:30: Break
-19:30 - 19:15: **talk two**
+* 18:00 - 18:30: Doors open
+* 18:30 - 18:15: **talk one**
+* 19:15 - 19:30: Break
+* 19:30 - 19:15: **talk two**
 
 ## About the Speakers
 
