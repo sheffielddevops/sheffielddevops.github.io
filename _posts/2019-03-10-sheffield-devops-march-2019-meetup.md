@@ -11,9 +11,9 @@ The next Sheffield Devops event takes place on **Thursday 14th March 2019** and 
 Our event is generously hosted by **Sky Betting & Gaming**, with refreshments provided on arrival and the first talk starting at 6:30pm. Please use the rear entrance of the Electric Works where someone will be present to sign you in.
 
 * 18:00 - 18:30: Doors open
-* 18:30 - 18:15: Pauline Narvas - The importance of diverse teams in the technical workforce
-* 19:15 - 19:30: Break
-* 19:30 - 19:15: Claire Agutter - VeriSM: A service management approach for the digital age
+* 18:30 - 19:15: Pauline Narvas - The importance of diverse teams in the technical workforce
+* 19:15 - 20:30: Break
+* 19:30 - 20:15: Claire Agutter - VeriSM: A service management approach for the digital age
 
 ## About the Speakers
 
