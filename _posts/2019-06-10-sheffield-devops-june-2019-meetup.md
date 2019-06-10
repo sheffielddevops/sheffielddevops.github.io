@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sheffield Devops - June 2019
+title: Sheffield Devops - June 2019 Meetup
 date: 2019-06-10
 ---
 
