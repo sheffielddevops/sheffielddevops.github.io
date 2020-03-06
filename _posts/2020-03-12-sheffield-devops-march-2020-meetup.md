@@ -21,7 +21,7 @@ Schedule
 
 About the Speakers
 
-Infrastructure-as-code for a scalable online classroom using AWS Cloud Development Kit
+### Infrastructure-as-code for a scalable online classroom using AWS Cloud Development Kit
 
 See code examples and learn about tools you can use to automate infrastructure in AWS. In this talk, Dave describes how Tutorful are building the infrastructure for an online classroom using Typescript and Cloud Development Kit to automate deployment in AWS.
 Dave Porter is the Chief Technology Officer at Tutorful. Coding since childhood, a Computer Science degree, and 20 years building distributed risk calculation systems and leading global teams at investment banks in London and Singapore, Dave is now helping to shape the technology at Tutorful.
@@ -32,10 +32,17 @@ https://tutorful.co.uk
 The Trusted Way To Find A Private Tutor - Tutorful
 With 100% satisfaction guaranteed and over 9000 tutors, Tutorful is the UK's leading place to find hand-picked, private tutors for any subject, any age, anywhere.
 
-Cool devops talk - TBC
+### Building a new government service: devops in a small multidisciplinary team
+
+Hive IT has been working with the Department for Education on delivering a new service for the dissemination of statistics through discovery, alpha and into a soon to launch public beta.
+
+In this talk we’ll look at the challenges, successes and lessons learnt from developing a new service with a small team, and how adopting some of the devops principles has enabled fast iterations in response to user research and feedback.
+
+Working for somebody else means you don’t always have full autonomy over your toolsets, we’ll look at how technology choices have been influenced, informed and changed over the course of development. Expect a lot of Azure from databases to devops, why you don't need to have Kubernetes and how to compromise between the perfect solution and the one that’s good enough to get the job done.
 
 James Cutts, Senior Software Engineer at Hive IT
 https://hiveit.co.uk/our-team/james-cutts/
+
 ## Venue
 
 Kelham Island Museum
