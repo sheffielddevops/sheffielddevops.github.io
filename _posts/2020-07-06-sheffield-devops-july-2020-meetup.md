@@ -4,7 +4,7 @@ title: Sheffield Devops - July 2020 Meetup
 date: 2020-07-09
 ---
 
-[Eventbrite Link](https://www.eventbrite.co.uk/o/sheffielddevops-9701562868)
+[Eventbrite Link](https://www.eventbrite.co.uk/e/sheffield-devops-july-2020-tickets-111796255610)
 
 **The next Sheffield Devops event takes place online on Thursday 9th July 2020 at 6pm at the following location: [https://www.youtube.com/watch?v=DSMAWwY26Ik](https://www.youtube.com/watch?v=DSMAWwY26Ik)**
 
@@ -17,7 +17,7 @@ We're striving for Sheffield Devops to be an inclusive event that is open to all
 - 18:00: Live stream starts
 - 18:15 - 19:00: **Andy Burgin** with *Beyond Dashboards - Visualising Complex Systems*
 - 19:00 - 19:15: Break
-- 19:15 - 20:00: **TBC**
+- 19:15 - 20:00: **Matt Jarvis** with *Introducing KUDO - Kubernetes Operators the Easy Way*
 
 ## **About the Speakers**
 
@@ -31,7 +31,13 @@ There are many ways to collect and visualise metrics from Kubernetes clusters. M
 
 This session will demonstrate ways to "see" the workloads running on clusters, helping to better understand workloads through visualisation, anomaly identification and exploratory analysis. Using tools such as graph databases and visualisation tools, you'll learn how they can help you explore and understand cluster workload topology usage. Sharing examples of how these tools have identified issues and how they can help engage with tenants to share best practices and ultimately improve cluster performance.
 
-### **Speaker Two TBC**
+### **Matt Jarvis**
+
+Matt Jarvis is Senior Director of Community and Evangelism at D2iQ. Matt has spent more than 15 years building products and services around open source software, on everything from embedded devices to large scale distributed systems. Most recently he has been focused on the open cloud infrastructure space, and in emerging patterns for cloud native applications. Matt is a regular speaker at conferences and meetups across the world, including MesosCon, Open Infrastructure Summit and All Things Open.
+
+**Introducing KUDO - Kubernetes Operators the Easy Way**
+
+Kubernetes Operators are the next phase of the journey towards automating complex applications in containers. The Kudo project introduces an easy way to build Kubernetes operators using declarative YAML. Many Operators that exist today handle initial deployment, but they don’t provide automation for tasks like binary upgrades, configuration updates, and failure recovery. Implementing a production-grade controller for a complex workload typically requires thousands of lines of code and many months of development. As a result, the quality of operators that are available today varies. The Kudo project provides a universal operator to enable automated creation of operators for Kubernetes, in most cases just using YAML. In this talk, I’ll introduce the Kudo project, and demo the creation of a Kubernetes operator using Kudo.
 
 ## **Talk Location**
 
