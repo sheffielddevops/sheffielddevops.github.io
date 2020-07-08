@@ -1,7 +1,9 @@
 ---
 title: Code of Conduct
 summary: Code of Conduct for Sheffield Devops
-redirect_from: /post/166824850299/code-of-conduct
+redirect_from:
+  - /post/166824850299/code-of-conduct
+  - /coc
 ---
 
 > All attendees, speakers, sponsors and volunteers at any Sheffield Devops meetup are required to agree with the following code of conduct. Organisers will enforce this code throughout any events and online communications related to Sheffield Devops.
