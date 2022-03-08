@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sheffield Devops - March 2022 Meetup
-date: 2020-03-10
+date: 2020-03-01
 ---
 
 [Eventbrite Link](https://www.eventbrite.co.uk/e/sheffield-devops-march-2022-tickets-265776232867)
