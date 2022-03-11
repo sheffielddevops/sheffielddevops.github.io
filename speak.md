@@ -9,7 +9,7 @@ We are always looking for speakers to talk at our meetups about Devops and relat
 
 # Audience
 
-Our attendees have a mixture of experiences. Some are just starting their Devops journey, whereas others have been on it for years. Some of the attendees are technical, others are not. We recommend being clear in your talk description, and make sure it’s Devops related. You might want to check back through the talk abstracts from our [past events](/past-events).
+Our attendees have a mixture of experiences. Some are just starting their Devops journey, whereas others have been on it for years. Some of the attendees are technical, others are not. We recommend being clear in your talk description, and make sure it’s Devops related. You might want to check back through the talk abstracts from our [past events](/previous).
 
 We typically get between 40 and 60 attendees.
 
