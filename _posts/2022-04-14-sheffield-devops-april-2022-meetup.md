@@ -13,7 +13,7 @@ We're striving for Sheffield Devops to be an inclusive event that is open to all
 ## **Schedule**
 
 - 18:00: Doors open
-- 18:30 - 19:15: **Bartosz Debski** with *From Server Deployment to AMI, containers and beyond*
+- 18:30 - 19:15: **Oliver Leaver-Smith** with *Paid to Sleep*
 - 19:15: Socialising
 
 ## **About the Speaker**
