@@ -7,7 +7,7 @@ layout: default
 
 Our events are free to attend, and open to anyone regardless of experience or background
 
-Our events start in the early evening allowing enough time for those that don’t work in Sheffield centre to get to the venue, and for those that do enough time to grab something to eat beforehand. There will be two slots on the evening, usually about 40 minutes each, covering the topics of technology, people and organisations. This could be in the form of a presentation, open space discussion, or series of lightning talks.
+Our events start in the early evening allowing enough time for those that don’t work in Sheffield centre to get to the venue, and for those that do enough time to grab something to eat beforehand. There will be one or two slots on the evening, usually about 40 minutes each, covering the topics of technology, people and organisations. This could be in the form of a presentation, open space discussion, or series of lightning talks.
 
 # Why attend?
 

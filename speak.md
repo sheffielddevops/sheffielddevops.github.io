@@ -23,4 +23,4 @@ Although we are happy to have out of town speakers, it’s really important to t
 
 # Contact
 
-If you are intestested in speaking, or want to run an idea past us, then please get in touch with the organisers via twitter [@sheffieldDevops](https://twitter.com/sheffieldDevops).
+If you are intestested in speaking, or want to run an idea past us, then please get in touch with the organisers via email [info@sheffielddevops.org.uk](mailto:info@sheffielddevops.org.uk) or Twitter [@sheffieldDevops](https://twitter.com/sheffieldDevops).
