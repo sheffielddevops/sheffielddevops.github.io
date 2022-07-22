@@ -2,6 +2,7 @@
 layout: post
 title: Sheffield Devops - September 2022 Meetup
 date: 2022-07-22
+image: /images/sdo_sep22.jpg
 ---
 
 **The next Sheffield Devops event takes place on Thursday 8th September 2022 at 6pm.**
