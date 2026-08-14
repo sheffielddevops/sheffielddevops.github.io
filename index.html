@@ -11,7 +11,7 @@
 :root{--bg:#fff;--fg:#111;--accent:#276848;--subtle:#777;}
 body{background:var(--bg);color:var(--fg);padding:0rem;margin:1rem;font-size:1rem;margin:1rem;line-height:1.6rem;font-family:"Space Grotesk",-apple-system,blinkmacsystemfont,"Helvetica Neue","Helvetica","Segoe UI",roboto,oxygen-sans,ubuntu,cantarell,"Helvetica Neue",sans-serif;text-rendering:optimizeLegibility;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;}
 a{font-weight:bold;}
-.parent{max-width:60rem;margin:0 auto;display:grid;grid-template-columns:repeat(3,1fr);grid-template-rows:repeat(2,auto);gap:1rem;}
+.parent{max-width:60rem;margin:0 auto;display:grid;grid-template-columns:repeat(3,1fr);grid-template-rows:repeat(3,auto);gap:1rem;}
 .parent > *{padding:1rem;}
 .intro{font-size:1.4rem;grid-area:1/1/2/3;}
 .timeline{grid-area:1/3/2/4;border-left:solid 3px var(--accent);}
@@ -29,15 +29,17 @@ a{font-weight:bold;}
 .event img{height:1.2rem;width:1.2rem;}
 .previous{color:var(--subtle);}
 .next{font-size:1.2rem;}
-.next::before{content:'Our next event is...';}
+.next::before{content:'Our next event is:';}
+.ai{grid-area:3/1/4/4;text-align:center;font-size:0.8rem;color:#555;}
 @media (max-width: 50rem){
-.parent{grid-template-columns:1fr;grid-template-rows:repeat(5,auto);}
+.parent{grid-template-columns:1fr;grid-template-rows:repeat(6,auto);}
 .intro{grid-area:1/1/2/2;}
 .timeline{grid-area:2/1/3/2;}
 .previous{display:none;}
 .attend{grid-area:3/1/4/2;}
 .speak{grid-area:4/1/5/2;}
 .conduct{grid-area:5/1/6/2;}
+.ai{grid-area:6/1/6/2}
 }
 </style>
 </head>
@@ -66,6 +68,7 @@ a{font-weight:bold;}
 <div class="attend dark"><h2>Attend</h2><p>Meetups are a great way to learn. This might be a new technology, or from the experiences of others. It’s also an opportunity to share your thoughts and find others that are having similar problems and solutions. You’ll also find out what DevOps related projects and activities companies are doing in Sheffield. It might even lead to some interesting career options</p></div>
 <div class="speak dark"><h2>Speak</h2><p>We are always looking for speakers to talk at our meetups about DevOps and related topics. This could also be a tutorial on using a technology, or a case study sharing experiences and lessons learned. We’re pretty flexible on the format, so let us know if you want to do something other than a 40 minute talk</p></div>
 <div class="conduct dark"><h2>Conduct</h2><p>Meetups are meant to be fun. People from different social backgrounds, industries and technologies attend, so when you are talking to people please consider what you say and how you speak. Basically, be nice, be friendly, and be respectful. Our full Code of Conduct is available <a href="/coc">here</a></p></div>
+<div class="ai"><p>Sheffield DevOps is committed to not using AI in any of our materials. At this time, we don't mandate that speakers refrain from using AI</p></div>
 </div>
 </body>
 </html>
