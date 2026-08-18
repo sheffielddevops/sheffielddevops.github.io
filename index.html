@@ -57,6 +57,96 @@ a{font-weight:bold;}
 </div>
 <p>Sheffield DevOps is an online meetup with the aim of showcasing exciting DevOps, SRE, and Platform Engineering <em>(and adjacent)</em> practices in the region. We are open to talks from practitioners from Sheffield and the wider area, but also regularly host talks from further afield</p>
 <p>Our events are free to attend, and open to anyone regardless of experience or background</p>
+<a class="cfp-banner" href="https://cfp.sheffielddevops.org.uk">
+  <div class="cfp-banner__content">
+    <span class="cfp-banner__eyebrow">Sheffield DevOps CFP</span>
+    <strong>Got something worth sharing?</strong>
+    <span>Talks, lightning talks, war stories and ideas. Submit any time.</span>
+  </div>
+
+  <span class="cfp-banner__cta">
+    Submit a talk
+    <span aria-hidden="true">→</span>
+  </span>
+</a>
+
+<style>
+.cfp-banner {
+  width: 100%;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2rem;
+
+  padding: 1.5rem 2rem;
+  margin: 2rem 0;
+
+  background: #276848;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 12px;
+
+  transition:
+    transform .15s ease,
+    background .15s ease;
+}
+
+.cfp-banner:hover {
+  background: #1f593d;
+  transform: translateY(-2px);
+}
+
+.cfp-banner__content {
+  display: flex;
+  flex-direction: column;
+  gap: .2rem;
+}
+
+.cfp-banner__eyebrow {
+  font-size: .75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .12em;
+  opacity: .7;
+}
+
+.cfp-banner strong {
+  font-size: clamp(1.5rem, 3vw, 2.4rem);
+  line-height: 1.1;
+}
+
+.cfp-banner__content > span:last-child {
+  opacity: .85;
+}
+
+.cfp-banner__cta {
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  gap: .75rem;
+
+  padding: .75rem 1rem;
+
+  border: 1px solid rgba(255,255,255,.5);
+  border-radius: 999px;
+
+  font-weight: 600;
+}
+
+.cfp-banner:hover .cfp-banner__cta {
+  background: #fff;
+  color: #276848;
+}
+
+@media (max-width: 650px) {
+  .cfp-banner {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 1rem;
+  }
+}
+</style>
 </div>
 <div class="timeline">
 <div class="previous">
